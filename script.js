@@ -55,7 +55,7 @@ function pow(x, n) {
     }
     return result;
 }
-console.log(pow(3, 2));
+console.log(pow(3, 3));
 
 
 // function pow(x, n) {
